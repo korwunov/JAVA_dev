@@ -17,29 +17,5 @@ public class Main {
         // Ввод элемента с клавиатуры
         int x = in.nextInt();
         System.out.println("x^2 - 2x + 1 = " + exp.evaluate(x));
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        System.out.println();
-        System.out.println("Анекдот дня!");
-        System.out.println("Программист Java выбросился из окна и упал через 7 дней🤪");
     }
 }

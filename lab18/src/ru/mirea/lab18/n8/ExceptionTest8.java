@@ -30,21 +30,6 @@ public class ExceptionTest8 {
     public static void main(String[] args) {
         ExceptionTest8 ex = new ExceptionTest8();
         ex.getKey();
-
-
-
-
-
-
-
-
-
-
-
-
-        System.out.println();
-        System.out.println("Анекдот дня!");
-        System.out.println("Больница совершила недопустимую операцию и было вызвано исключение!");
     }
 }
 

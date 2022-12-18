@@ -17,22 +17,5 @@ public class TestCustomer {
             throw new BadCustomerINN("error while reading INN number");
         }
         System.out.println("Data ok");
-
-
-
-
-
-
-
-
-
-
-
-
-
-        System.out.println();
-        System.out.println("Анекдот дня!");
-        System.out.println("То, что разработчики решают задачи каждый на своей ветке");
-        System.out.println("пришло к нам от наших предков - обезьян");
     }
 }

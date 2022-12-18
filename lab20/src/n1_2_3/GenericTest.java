@@ -8,27 +8,5 @@ public class GenericTest {
         generic.showT();
         generic.showV();
         generic.showK();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        System.out.println();
-        System.out.println("Анекдот дня!");
-        System.out.println("В каком-то фэнтези читал про Страшные Тёмные Письмена, которые невозможно прочесть");
-        System.out.println("так как само их начертание противно человеческому глазу и вызывает желание отвести взгляд.");
-        System.out.println("В целом очень напоминает то, как я читаю учебные материалы по джаве.");
     }
 }

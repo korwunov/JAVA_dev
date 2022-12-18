@@ -13,32 +13,6 @@ public class Main {
         Client client = new Client();
         client.sit();
         client.setChair(magicChair);
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        System.out.println();
-        System.out.println("Анекдот дня?");
-        System.out.println("Решил Иван Царевич стать программистом.");
-        System.out.println("И погиб - java задушила🐸");
     }
 
 }
